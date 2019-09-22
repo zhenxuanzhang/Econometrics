@@ -1,0 +1,2 @@
+# Econometrics
+Lijingping Econometrics course
